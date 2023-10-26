@@ -1,9 +1,9 @@
 {
   "name": "darkulaa",
   "displayName": "Darkula Theme",
-  "description": "Theme dark based on Dracula Theme",
+  "description": "Darkula Theme based on Dracula Theme",
   "publisher": "alancoosta",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -15,7 +15,7 @@
       {
         "label": "Darkula Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkula Theme-color-theme.json"
+        "path": "./themes/darkula-color-theme.json"
       }
     ]
   },
