@@ -17,5 +17,9 @@
         "path": "./themes/Darkula Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alancoosta/darkula.git"
   }
 }
