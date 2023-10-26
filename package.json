@@ -1,7 +1,8 @@
 {
-  "name": "darkula",
-  "displayName": "Darkula",
+  "name": "darkulaa",
+  "displayName": "Darkula Theme",
   "description": "Theme dark based on Dracula Theme",
+  "publisher": "alancoosta",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
